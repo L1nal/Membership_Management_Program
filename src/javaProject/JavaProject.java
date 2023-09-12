@@ -1,5 +1,5 @@
 package javaProject;
-import java.util.LinkedList;
+import java.util.*;
 
 public class JavaProject {
     public static void main(String[] args) {
