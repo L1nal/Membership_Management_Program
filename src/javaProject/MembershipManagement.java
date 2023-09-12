@@ -1,7 +1,7 @@
 package javaProject;
 
-import java.util.InputMismatchException;
-import java.util.LinkedList;
+import java.util.*;
+
 import java.util.Scanner;
 public class MembershipManagement {
     final private Scanner reader = new Scanner(System.in);
